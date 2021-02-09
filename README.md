@@ -11,4 +11,4 @@ More about me on my website: https://baraja.cz
 
 I'm currently **fully occupied**.
 
-[![Baraja github stats](https://github-readme-stats.vercel.app/api?username=janbarasek&count_private=true&show_icons=true)](https://github.com/janbarasek)
+[![Baraja github stats](https://github-readme-stats.vercel.app/api?username=janbarasek&count_private=true&show_icons=true&theme=dark)](https://github.com/janbarasek)
