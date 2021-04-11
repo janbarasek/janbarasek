@@ -9,6 +9,6 @@ Hi, I'm [Jan Barášek](https://baraja.cz/janbarasek).
 
 More about me on my website: https://baraja.cz
 
-I'm currently **fully occupied**.
+❗I'm currently **fully occupied**❗
 
 [![Baraja github stats](https://github-readme-stats.vercel.app/api?username=janbarasek&count_private=true&show_icons=true&theme=dark)](https://github.com/janbarasek)
