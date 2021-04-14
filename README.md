@@ -2,6 +2,8 @@
 
 Hi, I'm [Jan Barášek](https://baraja.cz/janbarasek).
 
+*I love math, programming and search algorithms. My mission is to connect these fields.*
+
 - 🔍 **Keywords**: fullstack developer, PHP, Vue, SQL, algorithm, functional programming, mathematics, Nette
 - 🎯 Focusing on **security**, **reliability** and **sustainability**
 - 🔓 Most of my **knowledge** is open-source ([php.baraja.cz](https://php.baraja.cz), [vue.baraja.cz](https://vue.baraja.cz), [personal FB](https://www.facebook.com/janbarasek))
