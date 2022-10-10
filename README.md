@@ -1,6 +1,9 @@
-# Hello 👋
-
-Hi, I'm [Jan Barášek](https://baraja.cz/janbarasek).
+<h1>
+ ✌<br>
+  Hi there ― <br>
+  my name is <a href="https://baraja.cz/janbarasek">Jan Barášek</a>,<br>
+  fullstack web developer.
+</h1>
 
 *I love math, programming and search algorithms. My mission is to connect these fields.*
 
