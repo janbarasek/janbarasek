@@ -1,7 +1,7 @@
 <h1>
  ✌<br>
   Hi there ― <br>
-  my name is <a href="https://baraja.cz/janbarasek">Jan Barášek</a>,<br>
+  my name is <a href="https://en.php.brj.cz/janbarasek">Jan Barášek</a>,<br>
   fullstack web developer.
 </h1>
 
