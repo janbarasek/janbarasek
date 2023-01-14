@@ -16,4 +16,10 @@ More about me on my website: https://baraja.cz
 
 ❗I'm currently **fully occupied**❗
 
+## 🔧 Technologies
+
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,nodejs,vue,react,mysql,vim,docker,kubernetes,md,git,github,gitlab,githubactions,figma,bash,cloudflare,jquery,nginx,bootstrap,c,dotnet,idea,jenkins,laravel,linux,regex,svg,vercel&theme=light)
+
+## 🏆 Stats
+
 [![Baraja github stats](https://github-readme-stats.vercel.app/api?username=janbarasek&count_private=true&show_icons=true&theme=dark)](https://github.com/janbarasek)
