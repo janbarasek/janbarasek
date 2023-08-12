@@ -61,31 +61,21 @@ A simple and very flexible API layer for your PHP application. The main value of
 
 ### Ecommerce & e-shop
 
-- [ecommerce-standard](https://github.com/baraja-core/ecommerce-standard)
-- [shop](https://github.com/baraja-core/shop)
-- [shop-product](https://github.com/baraja-core/shop-product)
-- [shop-cart](https://github.com/baraja-core/shop-cart)
-- [shop-order](https://github.com/baraja-core/shop-order)
-- [shop-customer](https://github.com/baraja-core/shop-customer)
-- [shop-brand](https://github.com/baraja-core/shop-brand)
-- [shop-price](https://github.com/baraja-core/shop-price)
-- [shop-payment](https://github.com/baraja-core/shop-payment)
-- [shop-invoice](https://github.com/baraja-core/shop-invoice)
-- [shop-delivery](https://github.com/baraja-core/shop-delivery)
-- [shop-currency](https://github.com/baraja-core/shop-currency)
-- [shop-availability](https://github.com/baraja-core/shop-availability)
-- [shop-address](https://github.com/baraja-core/shop-address)
-- [shop-warehouse](https://github.com/baraja-core/shop-warehouse)
-- [shop-unit](https://github.com/baraja-core/shop-unit)
-- [shop-product-loader](https://github.com/baraja-core/shop-product-loader)
+Developing an e-commerce solution in PHP is an extremely challenging task. These libraries allow you to implement a complex e-shop easily. Since e-shops are built on the principle of collaboration, within the BRJ organization I define interface standards for e-shop modules that you can combine from multiple vendors.
+
+- [ecommerce-standard](https://github.com/baraja-core/ecommerce-standard) A basic package of generic interfaces to maintain guaranteed compatibility. Focus on safety, reusability and strong type safety
+- [shop](https://github.com/baraja-core/shop) The main package that defines the e-shop interface
+
+The e-shop consists of many separate modules: [shop-product](https://github.com/baraja-core/shop-product), [shop-product-loader](https://github.com/baraja-core/shop-product-loader), [shop-cart](https://github.com/baraja-core/shop-cart), [shop-order](https://github.com/baraja-core/shop-order), [shop-customer](https://github.com/baraja-core/shop-customer), [shop-brand](https://github.com/baraja-core/shop-brand), [shop-price](https://github.com/baraja-core/shop-price), [shop-delivery](https://github.com/baraja-core/shop-delivery), [shop-payment](https://github.com/baraja-core/shop-payment), [shop-invoice](https://github.com/baraja-core/shop-invoice), [shop-currency](https://github.com/baraja-core/shop-currency), [shop-availability](https://github.com/baraja-core/shop-availability), [shop-address](https://github.com/baraja-core/shop-address), [shop-warehouse](https://github.com/baraja-core/shop-warehouse), [shop-unit](https://github.com/baraja-core/shop-unit) and more...
+
 - [variable-generator](https://github.com/baraja-core/variable-generator)
-- [country](https://github.com/baraja-core/country)
+- [geocoder](https://github.com/baraja-core/geocoder) Real world physical address to GPS coordinate conversion
+- [country](https://github.com/baraja-core/country) List of countris and regions
 - [heureka-bidding-api](https://github.com/baraja-core/heureka-bidding-api)
 - [zasilkovna](https://github.com/baraja-core/zasilkovna)
 - [reservation](https://github.com/baraja-core/reservation)
 - [phone-number](https://github.com/baraja-core/phone-number)
 - [heureka-feed](https://github.com/baraja-core/heureka-feed)
-- [geocoder](https://github.com/baraja-core/geocoder)
 - [newsletter](https://github.com/baraja-core/newsletter)
 
 ### CMS
