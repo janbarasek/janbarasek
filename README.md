@@ -1,7 +1,7 @@
 <div align='center'>
   <picture>
-    <source media='(prefers-color-scheme: dark)' srcset='./logo-dark.png'>
-    <img src='./logo-regular.png' alt='BRJ logo'>
+    <source media='(prefers-color-scheme: dark)' srcset='./logo-regular.png'>
+    <img src='./logo-dark.png' alt='BRJ logo'>
   </picture>
   <br>
   <a href="https://brj.cz">BRJ organisation</a>
