@@ -1,3 +1,12 @@
+<div align='center'>
+  <picture>
+    <source media='(prefers-color-scheme: dark)' srcset='./logo-dark.png'>
+    <img src='./logo-regular.png' alt='BRJ logo'>
+  </picture>
+  <br>
+  <a href="https://brj.cz">BRJ organisation</a>
+</div>
+<hr>
 <h1>
  ✌<br>
   Hi there ― <br>
