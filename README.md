@@ -4,7 +4,7 @@
     <img src='./logo-dark.png' alt='BRJ logo'>
   </picture>
   <br>
-  <a href="https://brj.cz">BRJ organisation</a>
+  <a href="https://brj.app">BRJ organisation</a>
 </div>
 <hr>
 <h1>
@@ -18,7 +18,7 @@
 
 - 🔍 **Keywords**: fullstack developer, React, Next.js, Vercel, PHP, Vue, SQL, algorithm, functional programming, mathematics, Nette
 - 🎯 Focusing on **security**, **reliability** and **sustainability**
-- 🔓 Most of my **knowledge** is open-source ([php.baraja.cz](https://php.baraja.cz), [brj.cz](https://brj.cz), [personal website](https://baraja.cz), [personal FB](https://www.facebook.com/janbarasek))
+- 🔓 Most of my **knowledge** is open-source ([php.baraja.cz](https://php.baraja.cz), [brj.app](https://brj.app), [personal website](https://baraja.cz), [personal FB](https://www.facebook.com/janbarasek))
 - ⛏️ Developer of large ecosystems, manager of hundreds of open source projects
 
 More about me on my website: https://baraja.cz
