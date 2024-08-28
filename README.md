@@ -7,6 +7,16 @@
   <a href="https://brj.app">BRJ organisation</a>
 </div>
 <hr>
+
+<div align='center'>
+  <picture>
+    <img src='https://gymroom.cz/gymroom-logo.png' alt='GymRoom logo'>
+  </picture>
+  <br>
+  <a href="https://gymroom.cz/en">GymRoom</a>
+</div>
+<hr>
+
 <h1>
  ✌<br>
   Hi there ― <br>
