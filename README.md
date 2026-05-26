@@ -10,7 +10,7 @@
 
 <div align='center'>
   <picture>
-    <img src='https://gymroom.cz/gymroom-logo.png' alt='GymRoom logo'>
+    <img src='https://gymroom.cz/logo.svg' alt='GymRoom logo' width=250>
   </picture>
   <br>
   <a href="https://gymroom.cz/en">GymRoom</a>
